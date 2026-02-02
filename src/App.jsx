@@ -2,7 +2,7 @@ import { useState } from "react";
 import "./App.css";
 import Card from "./components/Card";
 import SearchBar from "./components/SearchBar";
-
+// '''vai da certo'''
 const listCars = [
   {
     id: 1,
